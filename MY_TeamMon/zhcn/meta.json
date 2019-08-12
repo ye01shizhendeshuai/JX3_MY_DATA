@@ -1,7 +1,7 @@
 {
-  "name": "华乾小忘团自用数据2.1（备用代码ye0111@gitee）",
+  "name": "华乾小忘团自用数据2.2（备用代码ye0111@gitee，8.12修复倒计时重置）",
   "author": "叶01",
-  "version": "20190808",
+  "version": "20190812",
   "data_url": "./data.jx3dat",
   "about": "../README.md"
 }
